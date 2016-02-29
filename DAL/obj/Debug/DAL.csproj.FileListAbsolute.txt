@@ -1,0 +1,10 @@
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\DAL.dll.config
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\DAL.dll
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\DAL.pdb
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\EntityFramework.dll
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\EntityFramework.xml
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\obj\Debug\DAL.dll
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\obj\Debug\DAL.pdb
+E:\Mundipagg\Desafio\Estudo\Aula01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
